@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    align-items: center
+    ;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    
+}
